@@ -87,8 +87,8 @@
   margin: 0 auto;
   z-index: 1;
   height: 400px; }
-  .cbp > * {
-    visibility: hidden; }
+ /* .cbp > * {
+    visibility: hidden; } */
   .cbp .cbp-item {
     list-style-type: none;
     margin: 0;
