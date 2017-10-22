@@ -438,7 +438,7 @@ blockquote {
 }
 #header.standard .header-wrapper #main-menu > ul > li > a {
   color: rgba(44, 44, 44, 0.7);
-  line-height: 70px;
+  line-height: 45px;
 }
 #header.standard .header-wrapper #main-menu > ul > li > a.active {
   color: #2c2c2c;
