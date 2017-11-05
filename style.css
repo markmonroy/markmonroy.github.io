@@ -369,7 +369,7 @@ blockquote {
   position: absolute;
   display: none;
   right: 15px;
-  top: 22px;
+  top: 44px;
   cursor: pointer;
 }
 #header.standard .header-wrapper #menu-trigger span {
