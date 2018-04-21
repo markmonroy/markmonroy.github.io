@@ -366,6 +366,9 @@ blockquote {
 #header.standard .header-wrapper #logo a:hover {
   text-decoration: none;
 }
+#logo {
+  font-family: 'Josefin Sans', sans-serif;
+}  
 #header.standard .header-wrapper #menu-trigger {
   position: absolute;
   display: none;
